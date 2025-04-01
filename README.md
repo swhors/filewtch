@@ -6,7 +6,7 @@
 ```text
 틀정 폴더에 파일이 추가 되는 이벤트를 감지하여 레디스에 이벤트를 전송합니다.
 ```
-<img src="images/system_01.png" />
+<img src="system_01.png" />
 
 # 실행 방법
 
